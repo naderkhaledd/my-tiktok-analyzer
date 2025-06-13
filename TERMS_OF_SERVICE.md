@@ -1,0 +1,1 @@
+This is a personal software tool developed for my own use. It is not a commercial product. By using this tool, I agree to abide by TikTok's own Terms of Service. This tool is intended for personal data analysis only.
